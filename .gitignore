@@ -1,0 +1,17 @@
+# Visual Studio Build klasörleri (Bunlar karşı tarafta yeniden oluşur)
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio'nun kendi tuttuğu gizli dosyalar
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# SQL Server veritabanı dosyaları (GitHub'a atılmaz)
+*.mdf
+*.ldf
+
+# Paket klasörleri
+packages/
